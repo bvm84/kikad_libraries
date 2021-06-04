@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP7118AUJZ-3.3
+D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, TSOT-23-5
+K linear regulator ldo adjustable positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+$CMP ADP7142AUJZ-1.8
+D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 1.8V Fixed Output, TSOT-23-5
+K linear regulator ldo fixed positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+$CMP ADP7142AUJZ-2.5
+D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 2.5V Fixed Output, TSOT-23-5
+K linear regulator ldo fixed positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+$CMP ADP7142AUJZ-3.3
+D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 3.3V Fixed Output, TSOT-23-5
+K linear regulator ldo fixed positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+$CMP ADP7142AUJZ-5.0
+D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 5.0V Fixed Output, TSOT-23-5
+K linear regulator ldo fixed positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+#End Doc Library
