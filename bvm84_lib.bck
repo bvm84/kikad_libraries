@@ -30,4 +30,40 @@ K linear regulator ldo fixed positive
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
 $ENDCMP
 #
+$CMP PJ-3210-4a
+D Audio Jack, 3 Poles (Stereo / TRS)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP PMEG6020ER
+D 40V, 5A low Vf Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4050EP.pdf
+$ENDCMP
+#
+$CMP PMEG6030EP
+D 60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf
+$ENDCMP
+#
+$CMP PMEG6045ETP
+D 60V, 4.5A High-Temperature Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6045ETP.pdf
+$ENDCMP
+#
+$CMP SANYOU_SRD_Form_C
+D Sanyo SRD relay, Single Pole Miniature Power Relay,
+K Single Pole Relay SPDT
+F http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D Ningbo Songle Relay SRD-05VDC-SL-C
+K Single Pole Relay SPDT
+F https://datasheet.lcsc.com/lcsc/1811021933_Ningbo-Songle-Relay-SRD-05VDC-SL-C_C35449.pdf
+$ENDCMP
+#
 #End Doc Library

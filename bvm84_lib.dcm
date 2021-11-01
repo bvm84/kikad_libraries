@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ABS10
+D Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 700V Vrms, 0.8A If, ABS SMD package
+K rectifier acdc
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+$ENDCMP
+#
+$CMP ABS4
+D Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 280V Vrms, 0.8A If, ABS SMD package
+K rectifier acdc
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+$ENDCMP
+#
+$CMP ABS6
+D Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 420V Vrms, 0.8A If, ABS SMD package
+K rectifier acdc
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+$ENDCMP
+#
+$CMP ABS8
+D Miniature Glass Passivated Single-Phase Surface Mount Bridge Rectifiers, 450V Vrms, 0.8A If, ABS SMD package
+K rectifier acdc
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+$ENDCMP
+#
 $CMP ADP7118AUJZ-3.3
 D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, Adjustable, TSOT-23-5
 K linear regulator ldo adjustable positive
@@ -28,6 +52,42 @@ $CMP ADP7142AUJZ-5.0
 D 200mA, Low Noise, CMOS Low Dropout Regulator, Positive, 5.0V Fixed Output, TSOT-23-5
 K linear regulator ldo fixed positive
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7142.pdf
+$ENDCMP
+#
+$CMP PJ-3210-4a
+D Audio Jack, 3 Poles (Stereo / TRS)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP PMEG6020ER
+D 40V, 5A low Vf Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4050EP.pdf
+$ENDCMP
+#
+$CMP PMEG6030EP
+D 60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf
+$ENDCMP
+#
+$CMP PMEG6045ETP
+D 60V, 4.5A High-Temperature Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6045ETP.pdf
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D Ningbo Songle Relay SRD-05VDC-SL-C
+K Single Pole Relay SPDT
+F https://datasheet.lcsc.com/lcsc/1811021933_Ningbo-Songle-Relay-SRD-05VDC-SL-C_C35449.pdf
+$ENDCMP
+#
+$CMP TB1S-10
+D 1A SURFACE MOUNT GLASS PASSIVATED BRIDGE RECTIFIER 1000V Vrms, 1A If, ABS SMD package
+K rectifier acdc
+F https://datasheet.lcsc.com/lcsc/2005282131_Shandong-Jingdao-Microelectronics-TB4S-10_C437899.pdf
 $ENDCMP
 #
 #End Doc Library
